@@ -1,0 +1,12 @@
+name: dengue_claculator
+title: dengue_claculator
+username:
+account: andres159ciat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 361687
+bundleId: 1804857
+url: https://andres159ciat.shinyapps.io/dengue_claculator/
+when: 1547044049.27951
+asMultiple: FALSE
+asStatic: FALSE
