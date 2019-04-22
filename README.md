@@ -1,3 +1,3 @@
 # BetaBsClassifier
 
-## Bayesian classifier for discrete data using the Beta distribution
+## We have created this online repository to store all R scripts developed to construct classification rules for discrete data using a bayesian classifier based on beta distribution called BetaBSCclassifier. This script was created as part of the doctoral thesis “Development and validation of clinical algorithms for the diagnosis of dengue in febrile subjects in three Colombian cities, 2016-2018” by Diana Maria Caicedo Borrero, PhD student at the Universidad del Valle, on the programme of Doctorate of Health. This research was partly funded by the Colombian Department of Science, Technology and Innovation (COLCIENCIAS)
