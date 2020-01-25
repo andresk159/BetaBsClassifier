@@ -3,6 +3,7 @@
 # THIS APP COMES WITH ABSOLUTLEY NO WARRANTY
 # FEEL FREE TO DISTRIBUTE
 #
+# User interfaz for betaBS classifier
 #
 # This is the user-interface definition of a Shiny web application. You can
 # run the application by clicking 'Run App' above.
